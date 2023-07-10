@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FailureHandling</name>
+   <tag>@login @lgn</tag>
+   <comment></comment>
+   <testCaseGuid>090d9aa5-c26e-47cf-9a20-2b857ba03587</testCaseGuid>
+</TestCaseEntity>
